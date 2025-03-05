@@ -34,6 +34,8 @@ text-decoration: none;
 }
 
 .apresentacao__conteudo{
+    padding-left: 1.25rem;
+    padding-top: 1.25rem;
     width: 50%;
     display: flex;
     flex-direction: column;
@@ -52,9 +54,21 @@ font-family: var(--fonte-primaria);
 
 .apresentacao__imagem {
     width: 50%;
-    border-radius: 50%;
     border: 3px solid var(--cor-quinaria);
-    object-fit: cover;
+    
+}
+
+.lista__de__imagens{
+    
+    display: grid;
+    grid-template-columns: repeat(autofit, minmax(250px, 1fr));
+    gap:20px;
+    padding: 20px;
+}
+
+.texto__jogo{
+    font-size: 1rem;
+    font-family: var(--fonte-secundaria);
 }
 
 body{
