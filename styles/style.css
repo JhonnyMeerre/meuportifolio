@@ -11,43 +11,51 @@
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
 }
-*{
+
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-.cabecalho{
+body {
+    background-color: var(--cor-primaria);
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-secundaria);
+}
+
+.cabecalho {
     padding: 2% 0% 0% 15%;
 }
 
-.cabecalho__menu{
-display: flex;
-gap: 80px;
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
 }
 
-.cabecalho__menu__link{
-font-family: var(--fonte-primaria);
-font-size: 1.5rem;
-font-weight: 600;
-color: var(--cor-quinaria);
-text-decoration: none;
+.cabecalho__menu__link {
+    font-family: var(--fonte-primaria);
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--cor-quinaria);
+    text-decoration: none;
 }
 
-.apresentacao__conteudo{
+.apresentacao__conteudo {
     padding-left: 1.25rem;
     padding-top: 1.25rem;
-    width: 50%;
+    width: auto;
     display: flex;
     flex-direction: column;
     gap: 40px;
 }
 
-.apresentacao__conteudo__titulo{
-font-size: 1.25rem;
-font-family: var(--fonte-primaria);
+.apresentacao__conteudo__titulo {
+    font-size: 1.25rem;
+    font-family: var(--fonte-primaria);
 }
 
-.apresentacao__conteudo__texto{
+.apresentacao__conteudo__texto {
     font-size: 1.25rem;
     font-family: var(--fonte-secundaria);
 }
@@ -55,29 +63,54 @@ font-family: var(--fonte-primaria);
 .apresentacao__imagem {
     width: 50%;
     border: 3px solid var(--cor-quinaria);
-    
 }
 
-.lista__de__imagens{
-    
+.logo__nintendo{
+    width: 30%;
+    gap: 20px;
+}
+
+
+.lista__de__imagens {
     display: grid;
-    grid-template-columns: repeat(autofit, minmax(250px, 1fr));
-    gap:20px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
     padding: 20px;
 }
 
-.texto__jogo{
-    font-size: 1rem;
-    font-family: var(--fonte-secundaria);
+.texto__jogo {
+    background-color: var(--cor-hover);
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: center;
+    transition: transform 0.3s ease;
 }
 
-body{
-    box-sizing: border-box;
-    background-color: var(--cor-primaria);
+.texto__jogo:hover {
+    transform: scale(1.05);
+}
+
+.texto__jogo img {
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover; 
+    border-radius: 10px;
+}
+
+.texto__jogo h3 {
+    font-size: 1.25rem;
+    font-family: var(--fonte-primaria);
+    margin: 1rem 0 0.5rem;
+    color: var(--cor-quinaria);
+}
+
+.texto__jogo p {
+    font-size: 1rem;
+    font-family: var(--fonte-secundaria);
     color: var(--cor-secundaria);
 }
 
-.rodape{
+.rodape {
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     padding: 24px;
