@@ -101,7 +101,7 @@ body {
     font-size: 1.25rem;
     font-family: var(--fonte-primaria);
     margin: 1rem 0 0.5rem;
-    color: var(--cor-quinaria);
+    color: var(--cor-secundaria);
 }
 
 .texto__jogo p {
@@ -118,4 +118,25 @@ body {
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 400;
+}
+
+@media (max-width: 1200px) {
+    .cabecalho{
+         padding: 10%;  
+    }
+    .cabecalho__menu{
+        justify-content: center;
+        font-size: auto;
+    }
+
+    .cabecalho__menu__link{
+        justify-content: center;
+    }
+    .apresentacao{
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+    .apresentacao__conteudo{
+        width: auto;
+    }
 }
