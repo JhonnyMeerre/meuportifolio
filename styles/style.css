@@ -114,7 +114,11 @@ body {
     display: flex;
     flex-direction: column;
     width: auto;
-    
+}
+
+.imagem__jonathan{
+    flex: 1; /* Ocupa 1 parte do espaço disponível */
+    text-align: center; /* Centraliza a imagem */
 }
 
 .rodape {
