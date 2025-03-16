@@ -2,298 +2,281 @@
     {
         "id": 1,
         "nome": "Animaniacs",
-        "imagem": "./assets/Animaniacs.png",
+        "imagem": "Animaniacs.png",
         "historia": "A primeira vez que joguei Animaniacs, foi um verdadeiro teste de paciência e inteligência (coisas que eu claramente não tinha na época). O jogo começa com os três personagens — Yakko, Wakko e Dot — e você precisa alternar entre eles para avançar. Confesso que, no início, a mecânica me deixou mais perdido que cachorro em festa de gato.\n\nMas o que realmente marcou essa época foram os Tazos que vinham nos salgadinhos. Era a moeda de troca, o tesouro sagrado da infância. Colecionávamos, trocávamos e, claro, batíamos uns nos outros para ver quem ganhava mais. E aqui entra o vilão da minha história: o Marlon. Esse sujeito tinha um talento nato para roubar meus Tazos. Era como se ele fosse um ninja das figurinhas, sempre sumindo com meus preciosos discos de plástico.\n\nEu até tentava revidar, mas, sinceramente, eu apanhava mais do que um saco de pancadas em aula de boxe. No fim, acabei superando essa fase traumática (e aprendi a esconder melhor meus Tazos). Hoje, olho para trás e rio, mas, se eu encontrar o Marlon por aí, ainda vou cobrar aqueles Tazos que ele me deve."
     },
     {
         "id": 2,
         "nome": "Area 88",
-        "imagem": "./assets/Area_88.jpg",
+        "imagem": "Area_88.jpg",
         "historia": "Dos jogos sérios que eu joguei, Area 88 era um dos que mais me fazia sentir um verdadeiro piloto de combate (ou pelo menos um aspirante a herói dos céus). A mecânica de escolher um piloto e ir melhorando seu avião era incrível. Eu sempre escolhia um favorito e focava em deixá-lo no nível máximo, como se ele fosse meu filho predileto. Só consegui zerar o jogo duas vezes, porque, convenhamos, a dificuldade era de lascar.\n\nO jogo tinha umas regras malucas. Por exemplo, se você fosse atingido por um tiro, não podia simplesmente chorar e esperar o pior. Não, você tinha que desviar de todos os outros tiros até o sinal de alerta parar de tocar. Só aí sua barra de vida diminuía. Era tipo um treinamento militar: 'Ah, foi atingido? Então se vira aí, soldado!'\n\nE os chefes? Nossa, os chefes eram o verdadeiro pesadelo. Tinha missão que você voava até o final do mapa, dava meia-volta e ainda tinha que enfrentar um chefão que parecia ter tomado café com Red Bull. Era desesperador, mas também viciante.\n\nNo fim, Area 88 era daqueles jogos que te faziam sentir um gênio quando você passava de fase e um completo idiota quando perdia. Mas, mesmo com toda a dificuldade, ainda tenho um carinho enorme por ele. Afinal, quem não gosta de um desafio que faz você questionar suas habilidades (e sua sanidade)?"
     },
+
     {
-    "id": 3,
-    "nome": "Super Bomberman",
-    "imagem": "./assets/Bomberman.jpg",
-    "historia": "Ah, Super Bomberman... Esse jogo é um dos meus favoritos dessa lista, e sim, eu sou um fã boy assumido de Bomberman. Não tem como não ser! A primeira vez que joguei foi no fliperama do Miro, na esquina de casa. Lembro como se fosse hoje: eu estava lá, de bobeira, quando vi o pai do meu colega de classe, o seu João, jogando como um verdadeiro mestre das bombas. Fiquei fascinado!
-
-    O seu João e o filho chegavam até o último chefe, aquela nave em formato de ovo que parecia invencível. Eles ficavam lá, bombardeando tudo, mas nunca descobriam como derrotar o tal do ovo voador. Anos depois, quando finalmente descobri o segredo em casa, já era tarde: todo mundo já sabia. Fiquei me sentindo um gênio atrasado.
-    
-    Mas o que realmente me pega nesse jogo não são só as explosões (que, convenhamos, são incríveis), mas a nostalgia que ele traz. Toda vez que jogo, me lembro daquela época da quarta série na escola Padre Romeu Mecca, em Itapevi. Era só alegria, bagunça e, claro, muita estratégia para não explodir os amigos (ou a si mesmo).
-    
-    Super Bomberman é daqueles jogos que te transportam para um tempo em que a vida era mais simples, e a única coisa que importava era descobrir como vencer o chefe ovo sem explodir metade do mapa no processo. Bons tempos, hein?"
-    },
-    {
-    "id": 4,
-    "nome":"Super Bomberman",
-    "imagem":"./assets/Bomberman_2.jpg",
-    "historia": "Esse jogo eu só fui jogar muitos anos depois do lançamento. Na época, ele não estava na locadora Start Games (aquela famosa que todo mundo frequentava). Na verdade, ele só apareceu lá quase no fim da era Super Nintendo, quando eu já estava quase me aposentando dos videogames.
-
-    E sabe o que esse jogo me causa? Medo. Sim, medo! E por quê? Porque Bomberman 2 é daqueles jogos que não te deixam sair por aí correndo e explodindo tudo feito um louco. Não, não! Aqui você tem que pensar, planejar e, o mais importante, explodir os botões certos para liberar a porta de saída. Era tipo um quebra-cabeça explosivo, onde uma decisão errada podia te deixar preso no mapa, olhando para as paredes e se perguntando onde foi que você errou na vida.
-    
-    Era difícil? Era. Mas nada impossível. Só precisava de paciência (algo que eu, confesso, não tinha muito na época). Hoje, olho para trás e penso: 'Caramba, eu devia ter jogado mais isso, era um treino mental disfarçado de jogo de explosão'. Mas, naquela época, eu só queria mesmo era ver tudo virar pó."
-    },
-    {
-
-    "id": 5,
-    "imagem":"./assets/Bomberman_3.jpg",
-    "nome":"Bomberman",
-    "historia":"Dessa lista, Super Bomberman 3 foi um dos primeiros jogos que joguei em casa. Não joguei os jogos em ordem (afinal, quem precisa de cronologia quando se tem diversão?), mas lembro bem que foi esse e o Puzzle Bobble que marcaram o início da minha jornada gamer.
-
-    Esse jogo segue a mesma mecânica clássica de explodir tudo que vê pela frente, mas com um upgrade nos gráficos, que agora pareciam saídos de um anime. Foi o primeiro Bomberman que joguei na vida, e, confesso, ele me conquistou na hora. Mas nem tudo eram flores (ou bombas).
-    
-    E as montarias, os Louies? Ah, esses bichinhos eram demais! Cada um tinha uma habilidade única: o verde corria mais rápido que o Flash, o roxo pulava como um canguru olímpico, o amarelo assoprava blocos como se fosse um ventilador mágico, e o marrom... bem, o marrom era o cara das bombas, colocando todas de uma vez só. Era tipo um arsenal ambulante.
-    
-    Lembro que eu travava no segundo chefe, que eram dois caquitos mexicanos. Nossa, que raiva! Era frustrante demais. Só consegui zerar o jogo anos depois, quando já estava com 12 anos (e uma paciência muito maior). Na primeira vez que joguei, com 7 anos, eu achava que aqueles caquitos eram imbatíveis. Mal sabia eu que o verdadeiro desafio era a minha falta de estratégia.
-    
-    E, olha, esse jogo também me traz uma memória... digamos, peculiar. Lembro que, na época, teve um furto em casa. Levaram a bicicleta do meu tio. Mas os caras não deviam ser muito bons de estratégia, porque ficaram rodando com ela no mesmo bairro. Meu tio recuperou a bike no dia seguinte. É, nem os ladrões sabiam fugir direito. 'Oh, derrota!'
         
-    No fim, Super Bomberman 3 é mais que um jogo pra mim. É uma cápsula do tempo que guarda memórias de frustrações, vitórias, Louies saltitantes e até de uma bicicleta roubada (e recuperada). Bons tempos!"
-    },
+            
+                "id": 3,
+                "nome": "Super Bomberman",
+                "imagem": "Bomberman.png",
+                "historia": "Ah, Super Bomberman... Esse jogo é um dos meus favoritos dessa lista, e sim, eu sou um fã boy assumido de Bomberman. Não tem como não ser! A primeira vez que joguei foi no fliperama do Miro, na esquina de casa. Lembro como se fosse hoje: eu estava lá, de bobeira, quando vi o pai do meu colega de classe, o seu João, jogando como um verdadeiro mestre das bombas. Fiquei fascinado! \\n\\nO seu João e o filho chegavam até o último chefe, aquela nave em formato de ovo que parecia invencível. Eles ficavam lá, bombardeando tudo, mas nunca descobriam como derrotar o tal do ovo voador. Anos depois, quando finalmente descobri o segredo em casa, já era tarde: todo mundo já sabia. Fiquei me sentindo um gênio atrasado.\\n\\nMas o que realmente me pega nesse jogo não são só as explosões (que, convenhamos, são incríveis), mas a nostalgia que ele traz. Toda vez que jogo, me lembro daquela época da quarta série na escola Padre Romeu Mecca, em Itapevi. Era só alegria, bagunça e, claro, muita estratégia para não explodir os amigos (ou a si mesmo).\\n\\nSuper Bomberman é daqueles jogos que te transportam para um tempo em que a vida era mais simples, e a única coisa que importava era descobrir como vencer o chefe ovo sem explodir metade do mapa no processo. Bons tempos, hein?"
+            },
+            {
+                "id": 4,
+                "nome": "Super Bomberman 2",
+                "imagem": "Bomberman_2.jpg",
+                "historia": "Esse jogo eu só fui jogar muitos anos depois do lançamento. Na época, ele não estava na locadora Start Games (aquela famosa que todo mundo frequentava). Na verdade, ele só apareceu lá quase no fim da era Super Nintendo, quando eu já estava quase me aposentando dos videogames.\\n\\nE sabe o que esse jogo me causa? Medo. Sim, medo! E por quê? Porque Bomberman 2 é daqueles jogos que não te deixam sair por aí correndo e explodindo tudo feito um louco. Não, não! Aqui você tem que pensar, planejar e, o mais importante, explodir os botões certos para liberar a porta de saída. Era tipo um quebra-cabeça explosivo, onde uma decisão errada podia te deixar preso no mapa, olhando para as paredes e se perguntando onde foi que você errou na vida.\\n\\nEra difícil? Era. Mas nada impossível. Só precisava de paciência (algo que eu, confesso, não tinha muito na época). Hoje, olho para trás e penso: 'Caramba, eu devia ter jogado mais isso, era um treino mental disfarçado de jogo de explosão'. Mas, naquela época, eu só queria mesmo era ver tudo virar pó."
+            },
+            {
+                "id": 5,
+                "nome": "Super Bomberman 3",
+                "imagem": "Bomberman_3.jpg",
+                "historia": "Dessa lista, Super Bomberman 3 foi um dos primeiros jogos que joguei em casa. Não joguei os jogos em ordem (afinal, quem precisa de cronologia quando se tem diversão?), mas lembro bem que foi esse e o Puzzle Bobble que marcaram o início da minha jornada gamer.\\n\\nEsse jogo segue a mesma mecânica clássica de explodir tudo que vê pela frente, mas com um upgrade nos gráficos, que agora pareciam saídos de um anime. Foi o primeiro Bomberman que joguei na vida, e, confesso, ele me conquistou na hora. Mas nem tudo eram flores (ou bombas).\\n\\nE as montarias, os Louies? Ah, esses bichinhos eram demais! Cada um tinha uma habilidade única: o verde corria mais rápido que o Flash, o roxo pulava como um canguru olímpico, o amarelo assoprava blocos como se fosse um ventilador mágico, e o marrom... bem, o marrom era o cara das bombas, colocando todas de uma vez só. Era tipo um arsenal ambulante.\\n\\nLembro que eu travava no segundo chefe, que eram dois caquitos mexicanos. Nossa, que raiva! Era frustrante demais. Só consegui zerar o jogo anos depois, quando já estava com 12 anos (e uma paciência muito maior). Na primeira vez que joguei, com 7 anos, eu achava que aqueles caquitos eram imbatíveis. Mal sabia eu que o verdadeiro desafio era a minha falta de estratégia.\\n\\nE, olha, esse jogo também me traz uma memória... digamos, peculiar. Lembro que, na época, teve um furto em casa. Levaram a bicicleta do meu tio. Mas os caras não deviam ser muito bons de estratégia, porque ficaram rodando com ela no mesmo bairro. Meu tio recuperou a bike no dia seguinte. É, nem os ladrões sabiam fugir direito. 'Oh, derrota!'\\n\\nNo fim, Super Bomberman 3 é mais que um jogo pra mim. É uma cápsula do tempo que guarda memórias de frustrações, vitórias, Louies saltitantes e até de uma bicicleta roubada (e recuperada). Bons tempos!"
+            },
+        
     {
         "id": 6,
         "nome": "Super Bomberman 4",
-        "imagem": "./assets/bomberman_4.jpg",
+        "imagem": "Bomberman_4.jpg",
         "historia": "Pra mim, Super Bomberman 4 é o melhor da série no Super Nintendo. Sério, esse jogo é pura magia! O modo batalha é incrível, e cada personagem tem uma habilidade única (exceto o Bomberman branco e o preto, que ficaram com a mesmice de sempre).\n\nE as montarias? Ah, os Louies voltaram, mas dessa vez com um visual renovado e ainda mais diversificado. Cada um tinha habilidades parecidas com as do Bomberman 3 (correr, pular, assoprar blocos e soltar bombas de uma vez), mas agora sem a aparência de cangurus. Era como se tivessem feito um upgrade nos bichinhos, deixando-os mais estilosos e funcionais.\n\nCuriosamente, joguei esse depois do Bomberman 5, que eu pegava emprestado de um amigo. Quando finalmente consegui alugar o Bomberman 4 na lendária Escorpion Games, tive um déjà vu. Os mapas eram parecidíssimos com os do Bomberman 5, e eu ficava me perguntando: 'Já joguei isso ou tô ficando maluco?' Spoiler: não tinha jogado, mas quase enlouqueci tentando entender.\n\nUma das mecânicas mais divertidas era a de jogar o seu parceiro com a luva. Sempre que aparecia um portal, eu não pensava duas vezes: meu irmão mais novo, o Gean, ia parar lá no outro lado do mapa, querendo ou não. Passávamos tardes inteiras jogando juntos nos finais de semana, rindo e brigando (mais brigando, na verdade).\n\nE os chefes? Ah, os chefes eram tão fáceis que até parecia que estavam de folga. Zerava o jogo sem muito esforço, mas isso não tirava a diversão. Já o modo batalha tinha um toque especial: um modo quest onde você enfrentava os Bad Bombers em uma arena elétrica. Era caótico, divertido e viciante.\n\nSem dúvida, Super Bomberman 4 era (e ainda é) um jogo incrível. E, claro, ele me faz lembrar de tardes bem gastas com meu irmão, explodindo tudo, rindo até cansar e montando naqueles Louies que eram quase como nossos parceiros de crime virtual."
     },
     {
         "id": 7,
         "nome": "Super Bomberman 5",
-        "imagem": "./assets/Bomberman_5.jpg",
+        "imagem": "Bomberman_5.jpg",
         "historia": "Pronto! Esse é o último da lista de Super Nintendo, e que jogo! Super Bomberman 5 foi um que peguei emprestado do Emerson (o famoso Tatinha — sim, eu sei que é um apelido de menina, mas nunca perguntei o motivo, então fica o mistério). Joguei ele por um bom tempo, e, confesso, é aquele clássico 'mais do mesmo', mas com um toque especial.\n\nAqui, a mecânica de pegar os personagens foi retirada, e os Bad Bombers perderam seus poderes no modo batalha. Mas o que esse jogo tem de interessante? A nostalgia pura! Cada mundo representa um jogo da série Bomberman. Se você leu minha história sobre o Bomberman 4, deve lembrar que eu tinha a impressão de já ter jogado aquilo antes. Pois é, o mundo 4 era basicamente uma revisita ao Bomberman 4, com todas as fases do jogo anterior. Já os mundos 5 e 6 eram originais, criados especialmente para esse jogo.\n\nE tem mais: dois finais! Um bom e um ruim. No final ruim, os Bad Bombers fogem, e você fica com aquela sensação de 'perdi meu tempo'. Já no final bom, você precisa achar os portais corretos desde o mundo 1 até o mundo 5. Era tipo uma caça ao tesouro, só que com bombas e muita paciência. O último chefe, apesar de não ser tão difícil quanto o Bagular (aquele monstro do Bomberman 3), ainda era bem desafiador.\n\nE os Louies? Ah, eles voltaram com a aparência de cangurus, mas com um visual renovado. O verde, que corre rápido, agora é gordinho. A amarela virou uma menina com um laço vermelho na cabeça. O roxo ganhou um 'pula-pula' (imagino que ele tenha feito aulas de parkour). O azul, que esqueci de mencionar no Bomberman 3, apareceu com uma camiseta de futebol e chutava as bombas como um craque. E o marrom? Esse ganhou uma cartola pra parecer um mágico. Sério, dava pra fazer um spin-off só com esses bichinhos.\n\nEsse jogo me faz lembrar da quarta série, quando eu pegava jogos emprestados, saía de casa pra jogar bola, pegar goiabas e brincar na rua. Também me traz memórias do meu 'rival' Robson. Esse cara era o terror da minha infância — eu apanhava dele direto e tinha um medo danado. Mas essa história fica pra quando eu falar de Fatal Fury.\n\nNo fim, Super Bomberman 5 é um jogo que mistura nostalgia, desafio e um pouco de caos. E, claro, me faz lembrar de uma época em que a vida era mais simples, e o maior problema era decidir se eu ia explodir blocos ou fugir do Robson."
     },
     {
         "id": 8,
         "nome": "Boogerman",
-        "imagem": "./assets/Boogerman.jpg",
+        "imagem": "Boogerman.jpg",
         "historia": "Esse jogo não é lá aquelas coisas, mas me ensinou uma lição valiosa: podemos tentar antes de desistir (e, às vezes, a gente deveria desistir). Boogerman é aquele jogo de um 'super-herói' que usa nojeiras como armas: catarro, arrotos, puns e até caca de nariz. Sim, você leu certo. É basicamente um herói do asco.\n\nLembro que alugamos esse jogo achando que seria fácil. Que engano! Boogerman entra direto para a galeria dos jogos mais difíceis que já joguei. Eu me mordia de raiva quando morria com apenas 3 pontos de dano. Quando finalmente passei do primeiro chefe, o Hickboy (um caipira com uma galinha), pensei: 'Por que não tentar zerar esse jogo?' Spoiler: eu definitivamente deveria ter parado ali.\n\nMas minha mente teimosa não deixou. Aluguei o jogo várias vezes, determinado a vencer. Quando consegui passar do segundo chefe, a Revolta (uma bruxa), achei que tinha acabado. Mas não, o jogo decidiu me torturar com a área mais nojenta e chata de todas, cheia de inimigos que explodiam pus. Sério, dava até ânsia.\n\nAí veio o Flyboy, ou Menino Mosca, que foi meu terror pessoal. Toda vez que eu tinha que enfrentá-lo, eu queria morrer (ou matar alguém). Depois, veio um mundo aleatório misturando cavernas e montanhas, e o pior de todos: o chefe Deodor Ant. Esse inseto maldito me fez travar por anos. Só consegui derrotá-lo muito tempo depois, com muita paciência e um pouco de sorte.\n\nE a cereja do bolo? Meu irmão do meio, o Gilson, descobriu no chute o password do último mundo. Sim, ele acertou de cara! Graças a isso, conseguimos chegar ao último chefe, o Booger Meister, que, felizmente, seguia padrões fáceis de decorar. Zeramos o jogo, mas não sem antes passar por muita raiva, nojo e frustração.\n\nNo fim, Boogerman é daqueles jogos que você ama odiar. Ele me ensinou que, às vezes, a persistência pode ser recompensada (ou pode te fazer perder horas de vida). E, claro, me fez rir muito com as nojeiras e as memórias de tentar vencer aquele caipira e sua galinha."
     },
     {
         "id": 9,
         "nome": "Dragon Ball Z 2",
-        "imagem": "./assets/Dragon_BallZ2.jpg",
+        "imagem": "Dragon_BallZ2.jpg",
         "historia": "Esse jogo me lembra de quando eu estava na terceira série (hoje chamada de quarto ano). Eu jogava, mas não conhecia o anime nem o mangá. Achava que o Gohan era o Goku (sim, eu era bem leigo), e só descobri que ele não era jogável sem código muito tempo depois.\n\nEsse jogo também me faz lembrar das encrencas que eu me metia na escola. Naquela época, eu pegava cartuchos emprestados do Rodrigo, que a gente chamava de 'Rodrigo Cigarrinho' (não me pergunte o porquê, nunca descobri). Ele era brigão e, às vezes, até injusto — lembrava muito o Robson (que vou comentar quando falar de Fatal Fury), pois tinha o ego inflado e zero senso de justiça.\n\nApesar de ser intimidado por ele, o Rodrigo dava acesso a muitas coisas que a gente não tinha, igual ao famoso Dão (que vou comentar quando falar de Final Fight). Cheguei a comprar muitas revistas e cartuchos com ele, usando o dinheiro das latinhas que eu juntava. Era um negócio meio 'toma lá, dá cá', mas funcionava.\n\nNessa época, minha mãe tentou me colocar em aulas de kickboxing (que vou comentar quando falar de Congo's Caper), mas não deu muito certo. Ainda assim, aprendi a observar bem as coisas antes de agir — o que, convenhamos, foi uma lição valiosa, já que eu fazia muita besteira.\n\nDragon Ball Z 2 me ensinou que nem sempre bater é a melhor estratégia. Observar e atacar no momento certo pode fechar a luta, principalmente contra o Broly, aquele saiyajin overpower lendário que me fez passar muita raiva.\n\nNo fim, esse jogo e essa fase da minha vida têm algo em comum: ambos eram cheios de desafios, mas também de lições que, hoje, me fazem rir (e agradecer por ter sobrevivido)."
     },
     {
         "id": 10,
         "nome": "Congo's Caper",
-        "imagem": "./assets/congos_caper.png",
+        "imagem": "congos_caper.png",
         "historia": "Esse jogo é lindo, e eu tinha muita vontade de jogá-lo. A primeira vez que o vi foi no fliperama do Miro, na esquina de casa. Assim como Super Bomberman, ele tinha um chefe que ninguém conseguia passar — o primeiro chefe, pra ser mais exato. Ninguém entendia a mecânica de bater nos homenzinhos da caverna para que eles ricocheteassem e acertassem o dinossauro. Era tipo um quebra-cabeça que só os mais persistentes (ou teimosos) conseguiam resolver.\n\nLembro que o Alex tinha esse jogo. Ele e o irmão sempre foram muito gente boa, e até hoje eu gosto deles, apesar de, muitos anos depois, eles terem tentado me bater. Na época, eu não revidei — só desviei e tentei acalmá-los, porque não via motivos pra lutar. Aprendi nas aulas de kickboxing a ter disciplina, e, mesmo que o professor incentivasse a luta, eu preferia correr. Até hoje sou assim: não vejo sentido em brigar por qualquer coisa.\n\nNessa época, meu irmão Gilson e eu treinávamos kickboxing, mas saímos depois de um tempo porque alguns alunos começaram a nos ameaçar, usando a arte marcial para o mal. Anos depois, comecei a treinar taekwondo com o professor Thiago (vou comentar isso quando falar de Final Fighter 2).\n\nEssa também foi uma época tensa na minha vida. Meus tios Carlos e Moisés foram embora para o Piauí, sua terra natal. Não sei bem o motivo, mas ouvi falar que eles mexeram com quem não deviam. Eu estava na terceira série, me metia em muita encrenca e não tinha noção dos perigos da vida. Hoje, sou bem diferente do que era naquela época, mas as memórias ficaram.\n\nVoltando ao jogo, consegui finalizar Congo's Caper depois de muito tempo. Aquele dragão me fez passar uma raiva danada, mas, anos depois, entendi que ele tinha padrões que dava pra seguir e derrotar sem levar dano.\n\nNo fim, Congo's Caper e essa fase da minha vida têm algo em comum: ambos eram cheios de desafios, mas também de lições que, hoje, me fazem rir (e agradecer por ter sobrevivido)."
     },
 
     {
         "id": 11,
         "nome": "Donkey Kong Country",
-        "imagem": "./assets/Donkey_Kong_Country.png",
+        "imagem": "Donkey_Kong_Country.png",
         "historia": "Esse jogo é um clássico que marcou minha infância. Lembro de ficar horas tentando passar das fases, especialmente aquelas com os inimigos crocodilos e os barris que você precisa arremessar com precisão. A trilha sonora era incrível, e os gráficos, para a época, eram impressionantes.\n\nO que mais me marcou foi a fase da mina, onde você anda de minecart e precisa pular nos momentos certos para não cair. Era frustrante, mas ao mesmo tempo viciante. Consegui zerar o jogo, mas não sem antes passar muita raiva com alguns chefes, especialmente o King K. Rool.\n\nEsse jogo me faz lembrar de uma época em que a vida era mais simples, e o maior desafio era passar de fase no videogame. Bons tempos!"
     },
     {
         "id": 12,
         "nome": "Donkey Kong Country 2",
-        "imagem": "./assets/Donkey_Kong_Country_2.png",
+        "imagem": "Donkey_Kong_Country_2.png",
         "historia": "Se o primeiro Donkey Kong Country já era incrível, o segundo elevou tudo a um novo patamar. Dessa vez, você controla o Diddy Kong e a Dixie Kong, cada um com habilidades únicas. A Dixie, por exemplo, pode planar com seu rabo de cavalo, o que ajudava muito em algumas fases.\n\nLembro de ficar travado na fase do navio pirata, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move. Era desafiador, mas muito gratificante quando finalmente passava. O chefe final, o Kaptain K. Rool, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me traz lembranças de tardes inteiras jogando com meu irmão, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
     },
     {
         "id": 13,
         "nome": "Donkey Kong Country 3",
-        "imagem": "./assets/Donkey_Kong_Country_3.png",
+        "imagem": "Donkey_Kong_Country_3.png",
         "historia": "O terceiro jogo da série Donkey Kong Country trouxe muitas novidades, incluindo novos personagens e mecânicas. Dessa vez, você controla o Dixie Kong e o Kiddy Kong, um bebê gorila que, apesar de parecer frágil, era bem útil em algumas situações.\n\nUma das coisas que mais gostei nesse jogo foi a variedade de fases e a exploração. Havia muitos segredos escondidos, e eu passava horas tentando descobrir todos eles. Lembro de ficar especialmente frustrado com a fase do lago congelado, onde você precisa deslizar sobre o gelo e evitar cair na água.\n\nNo fim, Donkey Kong Country 3 foi um jogo que me ensinou a importância da persistência e da exploração. E, claro, me fez passar muitas horas me divertindo (e às vezes xingando o videogame)."
     },
     {
         "id": 14,
         "nome": "Final Fight",
-        "imagem": "./assets/Final_Fight.webp",
+        "imagem": "Final_Fight.webp",
         "historia": "Final Fight foi um dos primeiros jogos de luta que joguei no Super Nintendo. Lembro de escolher o Haggar, o prefeito da cidade, porque ele era o mais forte e conseguia derrubar os inimigos com facilidade. O jogo era simples, mas muito divertido, especialmente quando jogado com um amigo.\n\nO que mais me marcou foi a fase do metrô, onde você enfrenta uma horda de inimigos enquanto o trem se move ao fundo. Era caótico, mas ao mesmo tempo muito satisfatório quando conseguia passar. O chefe final, o Belger, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 15,
         "nome": "Final Fight 2",
-        "imagem": "./assets/Final_Fight_2.jpg",
+        "imagem": "Final_Fight_2.jpg",
         "historia": "Final Fight 2 trouxe muitas melhorias em relação ao primeiro jogo, incluindo novos personagens e fases. Dessa vez, você pode escolher entre três personagens: Haggar, Maki e Carlos. Cada um tinha habilidades únicas, o que adicionava uma camada extra de estratégia ao jogo.\n\nLembro de ficar especialmente impressionado com a fase do barco, onde você enfrenta inimigos enquanto o cenário balança. Era desafiador, mas muito divertido. O chefe final, o Rolento, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando com meu irmão, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
 
     {
         "id": 16,
         "nome": "Final Fight 3",
-        "imagem": "./assets/Final_Fight_3.jpg",
+        "imagem": "Final_Fight_3.jpg",
         "historia": "Final Fight 3 foi o último jogo da série que joguei no Super Nintendo, e ele trouxe muitas novidades em relação aos anteriores. Dessa vez, você pode escolher entre quatro personagens: Haggar, Guy, Lucia e Dean. Cada um tinha habilidades únicas, o que adicionava uma camada extra de estratégia ao jogo.\n\nUma das coisas que mais gostei nesse jogo foi a variedade de fases e a exploração. Havia muitos segredos escondidos, e eu passava horas tentando descobrir todos eles. Lembro de ficar especialmente impressionado com a fase do shopping, onde você enfrenta inimigos enquanto o cenário se move.\n\nO chefe final, o Black, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível. Esse jogo me faz lembrar de tardes inteiras jogando com meu irmão, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 17,
         "nome": "Final Fantasy 2",
-        "imagem": "./assets/Final_Fantasy_2.jpg",
+        "imagem": "Final_Fantasy_2.jpg",
         "historia": "Final Fantasy 2 foi um dos primeiros RPGs que joguei no Super Nintendo, e ele me marcou profundamente. A história era envolvente, e os personagens eram muito bem desenvolvidos. Lembro de ficar horas explorando o mundo, lutando contra monstros e descobrindo segredos.\n\nO que mais me marcou foi o sistema de progressão de personagens, onde você ganhava habilidades e magias conforme avançava no jogo. Era muito gratificante ver seus personagens evoluírem e se tornarem mais fortes. O chefe final, o Imperador, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de uma época em que a imersão em um mundo de fantasia era tudo o que eu precisava para me divertir. Bons tempos!"
     },
     {
         "id": 18,
         "nome": "Goof Troop",
-        "imagem": "./assets/Goof_and_Troop.jpg",
+        "imagem": "Goof_and_Troop.jpg",
         "historia": "Goof Troop foi um jogo que joguei muito com meu irmão. Era um jogo de ação e quebra-cabeças onde você controla o Pateta e seu filho, Max. O objetivo era resolver puzzles e derrotar inimigos para avançar nas fases.\n\nLembro de ficar especialmente impressionado com a fase do navio pirata, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move. Era desafiador, mas muito gratificante quando finalmente passava. O chefe final, o Pete, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando com meu irmão, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 19,
         "nome": "Joe e Mac 2",
-        "imagem": "./assets/joe_e_mac_2.jpg",
+        "imagem": "joe_e_mac_2.jpg",
         "historia": "Joe e Mac 2 foi um jogo que joguei muito com meu irmão. Era um jogo de ação onde você controla dois homens das cavernas, Joe e Mac, que precisam salvar suas namoradas de um vilão malvado.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase do vulcão, onde você enfrenta inimigos enquanto o cenário se move.\n\nO chefe final, o Gork, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível. Esse jogo me faz lembrar de tardes inteiras jogando com meu irmão, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 20,
         "nome": "Killer Instinct",
-        "imagem": "./assets/Killer_instinct.webp",
+        "imagem": "Killer_instinct.webp",
         "historia": "Killer Instinct foi um dos primeiros jogos de luta que joguei no Super Nintendo, e ele me marcou profundamente. Os gráficos eram impressionantes para a época, e os personagens eram muito bem desenhados. Lembro de ficar horas tentando descobrir todos os combos e movimentos especiais.\n\nO que mais me marcou foi o sistema de combos, onde você podia encadear uma série de golpes para causar mais dano ao oponente. Era muito gratificante ver seus personagens evoluírem e se tornarem mais fortes. O chefe final, o Eyedol, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de uma época em que a imersão em um mundo de fantasia era tudo o que eu precisava para me divertir. Bons tempos!"
     },
 
     {
         "id": 21,
         "nome": "Lamborghini American Challenge",
-        "imagem": "./assets/lamborghini.jpg",
+        "imagem": "lamborghini.jpg",
         "historia": "Esse jogo de corrida era um dos meus favoritos na época. Lembro de ficar horas tentando vencer todas as pistas e melhorar meu tempo. O que mais me marcou foi a sensação de velocidade e a adrenalina de ultrapassar os adversários na reta final.\n\nUma das coisas que mais gostei foi a variedade de carros e pistas. Cada carro tinha suas próprias características, e você precisava escolher o melhor para cada tipo de pista. Lembro de ficar especialmente impressionado com a pista do deserto, onde você precisa desviar de obstáculos e manter a velocidade.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 22,
         "nome": "Lagoon",
-        "imagem": "./assets/Lagoon.jpg",
+        "imagem": "Lagoon.jpg",
         "historia": "Lagoon foi um dos primeiros RPGs que joguei no Super Nintendo, e ele me marcou profundamente. A história era envolvente, e os personagens eram muito bem desenvolvidos. Lembro de ficar horas explorando o mundo, lutando contra monstros e descobrindo segredos.\n\nO que mais me marcou foi o sistema de progressão de personagens, onde você ganhava habilidades e magias conforme avançava no jogo. Era muito gratificante ver seus personagens evoluírem e se tornarem mais fortes. O chefe final, o Ghaleon, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de uma época em que a imersão em um mundo de fantasia era tudo o que eu precisava para me divertir. Bons tempos!"
     },
     {
         "id": 23,
         "nome": "Lemmings",
-        "imagem": "./assets/Lemings.jpg",
+        "imagem": "Lemings.jpg",
         "historia": "Lemmings foi um jogo de quebra-cabeças que joguei muito com meu irmão. O objetivo era guiar um grupo de lemmings até a saída, evitando que eles caíssem em armadilhas ou fossem esmagados.\n\nLembro de ficar especialmente impressionado com a fase do vulcão, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move. Era desafiador, mas muito gratificante quando finalmente passava. O chefe final, o Lemming King, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando com meu irmão, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 24,
         "nome": "Magical Quest 3",
-        "imagem": "./assets/Magical_quest_3.jpg",
+        "imagem": "Magical_quest_3.jpg",
         "historia": "Magical Quest 3 foi um jogo que joguei muito com meu irmão. Era um jogo de ação e aventura onde você controla Mickey e seus amigos, que precisam salvar o reino de um vilão malvado.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase do castelo, onde você enfrenta inimigos enquanto o cenário se move.\n\nO chefe final, o Pete, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível. Esse jogo me faz lembrar de tardes inteiras jogando com meu irmão, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 25,
         "nome": "Mega Man 7",
-        "imagem": "./assets/Mega_Man_7.jpg",
+        "imagem": "Mega_Man_7.jpg",
         "historia": "Mega Man 7 foi um dos primeiros jogos de ação que joguei no Super Nintendo, e ele me marcou profundamente. A história era envolvente, e os personagens eram muito bem desenvolvidos. Lembro de ficar horas explorando o mundo, lutando contra robôs e descobrindo segredos.\n\nO que mais me marcou foi o sistema de progressão de personagens, onde você ganhava habilidades e armas conforme avançava no jogo. Era muito gratificante ver seu personagem evoluir e se tornar mais forte. O chefe final, o Dr. Wily, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de uma época em que a imersão em um mundo de fantasia era tudo o que eu precisava para me divertir. Bons tempos!"
     },
 
     {
         "id": 26,
         "nome": "Mega Man X",
-        "imagem": "./assets/Mega_Man_X.jpg",
+        "imagem": "Mega_Man_X.jpg",
         "historia": "Mega Man X foi um dos jogos que mais me marcou no Super Nintendo. A jogabilidade era incrível, e a história, cheia de reviravoltas. Lembro de passar horas tentando derrotar os Mavericks e coletar suas armas.\n\nO que mais me chamou a atenção foi a liberdade que o jogo dava para explorar as fases e descobrir segredos. Cada Maverick tinha uma fraqueza específica, e descobrir qual arma usar era parte da estratégia. O chefe final, o Sigma, foi um dos mais desafiadores que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 27,
         "nome": "Mega Man X2",
-        "imagem": "./assets/Mega_man_X2.jpg",
+        "imagem": "Mega_man_X2.jpg",
         "historia": "Mega Man X2 trouxe muitas melhorias em relação ao primeiro jogo, incluindo novos Mavericks e mecânicas de jogo. Dessa vez, você podia enfrentar os Mavericks em qualquer ordem, o que adicionava uma camada extra de estratégia.\n\nLembro de ficar especialmente impressionado com a fase do Overdrive Ostrich, onde você precisa desviar de obstáculos em alta velocidade. Era desafiador, mas muito gratificante quando finalmente passava. O chefe final, o Sigma, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as armas. Foi uma experiência inesquecível."
     },
     {
         "id": 28,
         "nome": "Mortal Kombat",
-        "imagem": "./assets/Mortal_Kombat.jpg",
+        "imagem": "Mortal_Kombat.jpg",
         "historia": "Mortal Kombat foi um dos primeiros jogos de luta que joguei no Super Nintendo, e ele me marcou profundamente. Os gráficos eram impressionantes para a época, e os personagens eram muito bem desenhados. Lembro de ficar horas tentando descobrir todos os fatalities e movimentos especiais.\n\nO que mais me marcou foi a violência do jogo, que era algo novo para mim na época. Cada golpe e cada fatality eram uma surpresa, e eu ficava impressionado com os detalhes. O chefe final, o Shang Tsung, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de uma época em que a imersão em um mundo de fantasia era tudo o que eu precisava para me divertir. Bons tempos!"
     },
     {
         "id": 29,
         "nome": "Mortal Kombat 3",
-        "imagem": "./assets/Mortal_Kombat_3.webp",
+        "imagem": "Mortal_Kombat_3.webp",
         "historia": "Mortal Kombat 3 trouxe muitas novidades em relação aos anteriores, incluindo novos personagens e mecânicas de jogo. Dessa vez, você podia escolher entre uma variedade de personagens, cada um com seus próprios movimentos especiais e fatalities.\n\nLembro de ficar especialmente impressionado com a fase do Subway, onde você enfrenta inimigos enquanto o cenário se move. Era desafiador, mas muito gratificante quando finalmente passava. O chefe final, o Shao Kahn, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando com meu irmão, tentando descobrir todos os segredos e coletar todas as fatalities. Foi uma experiência inesquecível."
     },
     {
         "id": 30,
         "nome": "Prehistorik Man",
-        "imagem": "./assets/Prehistorik_Man.jpg",
+        "imagem": "Prehistorik_Man.jpg",
         "historia": "Prehistorik Man foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era guiar um homem das cavernas através de várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase do vulcão, onde você enfrenta inimigos enquanto o cenário se move.\n\nO chefe final, o T-Rex, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível. Esse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
 
     {
         "id": 31,
         "nome": "Raiden Trad",
-        "imagem": "./assets/Rainden.jpg",
+        "imagem": "Rainden.jpg",
         "historia": "Raiden Trad foi um dos primeiros jogos de tiro vertical que joguei no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e tiros na tela. A sensação de destruir inimigos e desviar de balas era incrível.\n\nO que mais me marcou foi a dificuldade do jogo. Era preciso muita precisão e reflexos rápidos para sobreviver. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta uma nave gigante cheia de armas. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-la foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 32,
         "nome": "Rockman and Forte",
-        "imagem": "./assets/Rockman_and_Forte.png",
+        "imagem": "Rockman_and_Forte.png",
         "historia": "Rockman and Forte foi um jogo que joguei muito no Super Nintendo. A jogabilidade era incrível, e a possibilidade de escolher entre Rockman e Forte adicionava uma camada extra de estratégia. Cada personagem tinha habilidades únicas, o que tornava o jogo ainda mais interessante.\n\nLembro de ficar especialmente impressionado com a fase do Astro Man, onde você precisa desviar de obstáculos e inimigos enquanto o cenário se move. Era desafiador, mas muito gratificante quando finalmente passava. O chefe final, o King, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as armas. Foi uma experiência inesquecível."
     },
     {
         "id": 33,
         "nome": "Sonic Wings",
-        "imagem": "./assets/Sonic_Wings.jpeg",
+        "imagem": "Sonic_Wings.jpeg",
         "historia": "Sonic Wings foi um jogo de tiro horizontal que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e tiros na tela. A sensação de destruir inimigos e desviar de balas era incrível.\n\nO que mais me marcou foi a variedade de personagens e aeronaves que você podia escolher. Cada uma tinha habilidades únicas, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta uma nave gigante cheia de armas. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-la foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 34,
         "nome": "Stunt Race FX",
-        "imagem": "./assets/Stun_Race.jpg",
+        "imagem": "Stun_Race.jpg",
         "historia": "Stunt Race FX foi um jogo de corrida que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as pistas e melhorar meu tempo. O que mais me marcou foi a sensação de velocidade e a adrenalina de ultrapassar os adversários na reta final.\n\nUma das coisas que mais gostei foi a variedade de carros e pistas. Cada carro tinha suas próprias características, e você precisava escolher o melhor para cada tipo de pista. Lembro de ficar especialmente impressionado com a pista do deserto, onde você precisa desviar de obstáculos e manter a velocidade.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 35,
         "nome": "Super Mario All-Stars",
-        "imagem": "./assets/Super_Mario_All-stars.jpg",
+        "imagem": "Super_Mario_All-stars.jpg",
         "historia": "Super Mario All-Stars foi um dos jogos que mais joguei no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de jogos incluídos no cartucho. Cada um tinha suas próprias fases e desafios, o que tornava o jogo ainda mais interessante. Lembro de ficar especialmente impressionado com a fase do castelo no Super Mario Bros. 3, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
     },
   {
         "id": 36,
         "nome": "Super Mario RPG",
-        "imagem": "./assets/Super_Mario_RPG.jpg",
+        "imagem": "Super_Mario_RPG.jpg",
         "historia": "Super Mario RPG foi um dos primeiros RPGs que joguei no Super Nintendo, e ele me marcou profundamente. A história era envolvente, e os personagens eram muito bem desenvolvidos. Lembro de ficar horas explorando o mundo, lutando contra monstros e descobrindo segredos.\n\nO que mais me marcou foi o sistema de batalha, onde você precisava acertar os comandos no tempo certo para causar mais dano. Era muito gratificante ver seus personagens evoluírem e se tornarem mais fortes. O chefe final, o Smithy, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de uma época em que a imersão em um mundo de fantasia era tudo o que eu precisava para me divertir. Bons tempos!"
     },
     {
         "id": 37,
         "nome": "Super Mario World",
-        "imagem": "./assets/Super_Mario_World.jpg",
+        "imagem": "Super_Mario_World.jpg",
         "historia": "Super Mario World foi um dos jogos que mais joguei no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de fases e a possibilidade de encontrar atalhos e mundos secretos. Lembro de ficar especialmente impressionado com a fase do Castelo de Bowser, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
     },
     {
         "id": 38,
         "nome": "Super Mario World 2: Yoshi's Island",
-        "imagem": "./assets/Super_Mario_World_2.jpg",
+        "imagem": "Super_Mario_World_2.jpg",
         "historia": "Super Mario World 2: Yoshi's Island foi um jogo que joguei muito no Super Nintendo. A jogabilidade era incrível, e a história, cheia de reviravoltas. Lembro de passar horas tentando salvar o bebê Mario e coletar todas as estrelas.\n\nO que mais me chamou a atenção foi a mecânica de transformação do Yoshi, onde ele podia engolir inimigos e transformá-los em ovos para usar como armas. Cada fase tinha seus próprios desafios, e descobrir todos os segredos era parte da diversão. O chefe final, o Baby Bowser, foi um dos mais desafiadores que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 39,
         "nome": "Thunder Spirits",
-        "imagem": "./assets/Thuder_Spirits.jpg",
+        "imagem": "Thuder_Spirits.jpg",
         "historia": "Thunder Spirits foi um dos primeiros jogos de tiro vertical que joguei no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e tiros na tela. A sensação de destruir inimigos e desviar de balas era incrível.\n\nO que mais me marcou foi a dificuldade do jogo. Era preciso muita precisão e reflexos rápidos para sobreviver. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta uma nave gigante cheia de armas. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-la foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 40,
         "nome": "Top Gear",
-        "imagem": "./assets/Top_Gear.jpg",
+        "imagem": "Top_Gear.jpg",
         "historia": "Top Gear foi um jogo de corrida que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as pistas e melhorar meu tempo. O que mais me marcou foi a sensação de velocidade e a adrenalina de ultrapassar os adversários na reta final.\n\nUma das coisas que mais gostei foi a variedade de carros e pistas. Cada carro tinha suas próprias características, e você precisava escolher o melhor para cada tipo de pista. Lembro de ficar especialmente impressionado com a pista do deserto, onde você precisa desviar de obstáculos e manter a velocidade.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
 
     {
         "id": 41,
         "nome": "Top Gear 2",
-        "imagem": "./assets/Top_Gear_2.jpg",
+        "imagem": "Top_Gear_2.jpg",
         "historia": "Top Gear 2 trouxe muitas melhorias em relação ao primeiro jogo, incluindo novos carros e pistas. Lembro de ficar horas tentando vencer todas as corridas e melhorar meu tempo. O que mais me marcou foi a sensação de velocidade e a adrenalina de ultrapassar os adversários na reta final.\n\nUma das coisas que mais gostei foi a variedade de carros e pistas. Cada carro tinha suas próprias características, e você precisava escolher o melhor para cada tipo de pista. Lembro de ficar especialmente impressionado com a pista da neve, onde você precisa desviar de obstáculos e manter a velocidade.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 42,
         "nome": "Top Gear 3000",
-        "imagem": "./assets/Top_gear_3000.webp",
+        "imagem": "Top_gear_3000.webp",
         "historia": "Top Gear 3000 foi um jogo de corrida futurista que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as pistas e melhorar meu tempo. O que mais me marcou foi a sensação de velocidade e a adrenalina de ultrapassar os adversários na reta final.\n\nUma das coisas que mais gostei foi a variedade de carros e pistas. Cada carro tinha suas próprias características, e você precisava escolher o melhor para cada tipo de pista. Lembro de ficar especialmente impressionado com a pista do espaço, onde você precisa desviar de obstáculos e manter a velocidade.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 43,
         "nome": "Wild Cats",
-        "imagem": "./assets/Wild_Cats.jpeg",
+        "imagem": "Wild_Cats.jpeg",
         "historia": "Wild Cats foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era guiar um grupo de gatos através de várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase do vulcão, onde você enfrenta inimigos enquanto o cenário se move.\n\nO chefe final, o Tigre, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível. Esse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 44,
         "nome": "Wild Guns",
-        "imagem": "./assets/Wild_Guns.png",
+        "imagem": "Wild_Guns.png",
         "historia": "Wild Guns foi um jogo de tiro que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e tiros na tela. A sensação de destruir inimigos e desviar de balas era incrível.\n\nO que mais me marcou foi a dificuldade do jogo. Era preciso muita precisão e reflexos rápidos para sobreviver. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta um robô gigante cheio de armas. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 45,
         "nome": "Daffy Duck",
-        "imagem": "./assets/Daffu_Duck.jpg",
+        "imagem": "Daffu_Duck.jpg",
         "historia": "Daffy Duck foi um jogo de plataforma que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de fases e a possibilidade de encontrar atalhos e itens secretos. Lembro de ficar especialmente impressionado com a fase do castelo, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
     },
 
@@ -301,31 +284,31 @@
    {
         "id": 46,
         "nome": "F-Zero",
-        "imagem": "./assets/f_zero.jpg",
+        "imagem": "f_zero.jpg",
         "historia": "F-Zero foi um dos primeiros jogos de corrida futurista que joguei no Super Nintendo. Lembro de ficar horas tentando vencer todas as pistas e melhorar meu tempo. O que mais me marcou foi a sensação de velocidade e a adrenalina de ultrapassar os adversários na reta final.\n\nUma das coisas que mais gostei foi a variedade de carros e pistas. Cada carro tinha suas próprias características, e você precisava escolher o melhor para cada tipo de pista. Lembro de ficar especialmente impressionado com a pista do Big Blue, onde você precisa desviar de obstáculos e manter a velocidade.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 47,
         "nome": "Choplifter III",
-        "imagem": "./assets/Choplifter_III.png",
+        "imagem": "Choplifter_III.png",
         "historia": "Choplifter III foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era pilotar um helicóptero e resgatar soldados em várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase do deserto, onde você enfrenta inimigos enquanto o cenário se move.\n\nO chefe final, o General, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível. Esse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 48,
         "nome": "Asterix",
-        "imagem": "./assets/Asterix.jpg",
+        "imagem": "Asterix.jpg",
         "historia": "Asterix foi um jogo de plataforma que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de fases e a possibilidade de encontrar atalhos e itens secretos. Lembro de ficar especialmente impressionado com a fase do castelo, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
     },
     {
         "id": 49,
         "nome": "Road Runner's Death Valley Rally",
-        "imagem": "./assets/Road_Runner's_Death_Valley_Rally.png",
+        "imagem": "Road_Runner's_Death_Valley_Rally.png",
         "historia": "Road Runner's Death Valley Rally foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era guiar o Road Runner através de várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase do deserto, onde você enfrenta inimigos enquanto o cenário se move.\n\nO chefe final, o Coyote, foi um dos mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível. Esse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 50,
         "nome": "Taz-Mania",
-        "imagem": "./assets/taz-mania.jpg",
+        "imagem": "taz-mania.jpg",
         "historia": "Taz-Mania foi um jogo de plataforma que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de fases e a possibilidade de encontrar atalhos e itens secretos. Lembro de ficar especialmente impressionado com a fase da floresta, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
     },
 
@@ -333,31 +316,31 @@
 {
         "id": 51,
         "nome": "Fatal Fury",
-        "imagem": "./assets/fatal_fury_king_of_fighters.jpg",
+        "imagem": "fatal_fury_king_of_fighters.jpg",
         "historia": "Fatal Fury foi um dos primeiros jogos de luta que joguei no Super Nintendo. Lembro de ficar horas tentando descobrir todos os golpes especiais e combos. A sensação de derrotar os adversários e avançar no torneio era incrível.\n\nO que mais me marcou foi a variedade de personagens, cada um com seu próprio estilo de luta. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta Geese Howard. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 52,
         "nome": "Fatal Fury Special",
-        "imagem": "./assets/fatal_fury_special.jpg",
+        "imagem": "fatal_fury_special.jpg",
         "historia": "Fatal Fury Special trouxe muitas melhorias em relação ao primeiro jogo, incluindo novos personagens e mecânicas de jogo. Dessa vez, você podia escolher entre uma variedade de personagens, cada um com seus próprios golpes especiais e combos.\n\nLembro de ficar especialmente impressionado com a fase do Geese Tower, onde você enfrenta inimigos enquanto o cenário se move. Era desafiador, mas muito gratificante quando finalmente passava. O chefe final, o Geese Howard, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as técnicas. Foi uma experiência inesquecível."
     },
     {
         "id": 53,
         "nome": "Axelay",
-        "imagem": "./assets/Axelay.jpg",
+        "imagem": "Axelay.jpg",
         "historia": "Axelay foi um dos primeiros jogos de tiro vertical que joguei no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e tiros na tela. A sensação de destruir inimigos e desviar de balas era incrível.\n\nO que mais me marcou foi a dificuldade do jogo. Era preciso muita precisão e reflexos rápidos para sobreviver. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta uma nave gigante cheia de armas. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-la foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 54,
         "nome": "The Legend of Zelda: A Link to the Past",
-        "imagem": "./assets/The_Legenda_of_Zelda_A_Link_to_the_Past.png",
+        "imagem": "The_Legenda_of_Zelda_A_Link_to_the_Past.png",
         "historia": "The Legend of Zelda: A Link to the Past foi um dos primeiros RPGs que joguei no Super Nintendo, e ele me marcou profundamente. A história era envolvente, e os personagens eram muito bem desenvolvidos. Lembro de ficar horas explorando o mundo, lutando contra monstros e descobrindo segredos.\n\nO que mais me marcou foi o sistema de progressão de personagens, onde você ganhava habilidades e itens conforme avançava no jogo. Era muito gratificante ver seu personagem evoluir e se tornar mais forte. O chefe final, o Ganon, foi um desafio e tanto, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de uma época em que a imersão em um mundo de fantasia era tudo o que eu precisava para me divertir. Bons tempos!"
     },
     {
         "id": 55,
         "nome": "Kirby Super Star",
-        "imagem": "./assets/kirby_super_star.jpg",
+        "imagem": "kirby_super_star.jpg",
         "historia": "Kirby Super Star foi um jogo de plataforma que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de habilidades que o Kirby podia adquirir ao engolir inimigos. Cada habilidade tinha suas próprias técnicas, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Rei Dedede. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as habilidades. Foi uma experiência inesquecível."
     },
 
@@ -365,124 +348,124 @@
     {
         "id": 56,
         "nome": "Kyle Petty's No Fear Racing",
-        "imagem": "./assets/Kyle_Pettys_No_Fear.jpg",
+        "imagem": "Kyle_Pettys_No_Fear.jpg",
         "historia": "Kyle Petty's No Fear Racing foi um jogo de corrida que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as pistas e melhorar meu tempo. O que mais me marcou foi a sensação de velocidade e a adrenalina de ultrapassar os adversários na reta final.\n\nUma das coisas que mais gostei foi a variedade de carros e pistas. Cada carro tinha suas próprias características, e você precisava escolher o melhor para cada tipo de pista. Lembro de ficar especialmente impressionado com a pista do deserto, onde você precisa desviar de obstáculos e manter a velocidade.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 57,
         "nome": "Power Rangers",
-        "imagem": "./assets/Power-rangers-game.webp",
+        "imagem": "Power-rangers-game.webp",
         "historia": "Power Rangers foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era guiar os Power Rangers através de várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Lord Zedd. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 58,
         "nome": "Power Rangers: The Movie",
-        "imagem": "./assets/Power_Rangers_the_movie.jpg",
+        "imagem": "Power_Rangers_the_movie.jpg",
         "historia": "Power Rangers: The Movie foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era guiar os Power Rangers através de várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Ivan Ooze. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 59,
         "nome": "Power Rangers: The Fighting Edition",
-        "imagem": "./assets/Power-Rangers-The-Fighting-Edition.jpg",
+        "imagem": "Power-Rangers-The-Fighting-Edition.jpg",
         "historia": "Power Rangers: The Fighting Edition foi um jogo de luta que joguei muito no Super Nintendo. Lembro de ficar horas tentando descobrir todos os golpes especiais e combos. A sensação de derrotar os adversários e avançar no torneio era incrível.\n\nO que mais me marcou foi a variedade de personagens, cada um com seu próprio estilo de luta. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Lord Zedd. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 60,
         "nome": "Super SWIV",
-        "imagem": "./assets/super_swiv.jpg",
+        "imagem": "super_swiv.jpg",
         "historia": "Super SWIV foi um jogo de tiro vertical que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e tiros na tela. A sensação de destruir inimigos e desviar de balas era incrível.\n\nO que mais me marcou foi a dificuldade do jogo. Era preciso muita precisão e reflexos rápidos para sobreviver. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta uma nave gigante cheia de armas. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-la foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
 
     {
         "id": 61,
         "nome": "Tetris Attack",
-        "imagem": "./assets/Tetris_Attack_box.png",
+        "imagem": "Tetris_Attack_box.png",
         "historia": "Tetris Attack foi um jogo de quebra-cabeças que joguei muito no Super Nintendo. O objetivo era alinhar blocos coloridos para eliminá-los da tela. A sensação de criar combos e ver os blocos desaparecerem era incrível.\n\nO que mais me marcou foi a dificuldade do jogo. Era preciso muita estratégia e reflexos rápidos para sobreviver. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta um oponente muito rápido. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 62,
         "nome": "The King of Fighters 2000",
-        "imagem": "./assets/the_king_of_fight_2000.jpg",
+        "imagem": "the_king_of_fight_2000.jpg",
         "historia": "The King of Fighters 2000 foi um jogo de luta que joguei muito no Super Nintendo. Lembro de ficar horas tentando descobrir todos os golpes especiais e combos. A sensação de derrotar os adversários e avançar no torneio era incrível.\n\nO que mais me marcou foi a variedade de personagens, cada um com seu próprio estilo de luta. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Rugal Bernstein. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 63,
         "nome": "The Mask",
-        "imagem": "./assets/the_mask.jpg",
+        "imagem": "the_mask.jpg",
         "historia": "The Mask foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era guiar o personagem principal através de várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o vilão principal. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 64,
         "nome": "Metal Warriors",
-        "imagem": "./assets/metal_warriors.jpg",
+        "imagem": "metal_warriors.jpg",
         "historia": "Metal Warriors foi um jogo de ação e estratégia que joguei muito no Super Nintendo. O objetivo era pilotar um mecha e derrotar inimigos em várias fases, coletando itens e melhorando seu equipamento.\n\nO que mais me marcou foi a variedade de mechas e armas que você podia escolher. Cada mecha tinha suas próprias características, e você precisava escolher o melhor para cada tipo de fase. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta um mecha gigante. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 65,
         "nome": "The Lion King",
-        "imagem": "./assets/The_lion_king.jpg",
+        "imagem": "The_lion_king.jpg",
         "historia": "The Lion King foi um jogo de plataforma que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de fases e a possibilidade de encontrar atalhos e itens secretos. Lembro de ficar especialmente impressionado com a fase do vulcão, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
     },
 
     {
         "id": 66,
         "nome": "Uniracers",
-        "imagem": "./assets/uniracers.jpg",
+        "imagem": "uniracers.jpg",
         "historia": "Uniracers foi um jogo de corrida que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as pistas e melhorar meu tempo. O que mais me marcou foi a sensação de velocidade e a adrenalina de ultrapassar os adversários na reta final.\n\nUma das coisas que mais gostei foi a variedade de pistas e a possibilidade de realizar manobras aéreas. Cada pista tinha suas próprias características, e você precisava escolher a melhor estratégia para cada uma. Lembro de ficar especialmente impressionado com a pista do deserto, onde você precisa desviar de obstáculos e manter a velocidade.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 67,
         "nome": "Robocop vs Terminator",
-        "imagem": "./assets/robocop_vs_terminator.jpg",
+        "imagem": "robocop_vs_terminator.jpg",
         "historia": "Robocop vs Terminator foi um jogo de ação e tiro que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e tiros na tela. A sensação de destruir inimigos e desviar de balas era incrível.\n\nO que mais me marcou foi a dificuldade do jogo. Era preciso muita precisão e reflexos rápidos para sobreviver. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o T-800. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 68,
         "nome": "Judge Dredd",
-        "imagem": "./assets/judge_dredd.jpg",
+        "imagem": "judge_dredd.jpg",
         "historia": "Judge Dredd foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era guiar o juiz Dredd através de várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Rico Dredd. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 69,
         "nome": "Star Gate",
-        "imagem": "./assets/star_gate.jpg",
+        "imagem": "star_gate.jpg",
         "historia": "Star Gate foi um jogo de tiro vertical que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e tiros na tela. A sensação de destruir inimigos e desviar de balas era incrível.\n\nO que mais me marcou foi a dificuldade do jogo. Era preciso muita precisão e reflexos rápidos para sobreviver. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta uma nave gigante cheia de armas. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-la foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a dificuldade dos jogos era parte da diversão, e cada vitória era uma conquista pessoal."
     },
     {
         "id": 70,
         "nome": "Rock 'N Roll Racing",
-        "imagem": "./assets/rock-n-roll-racing.jpg",
+        "imagem": "rock-n-roll-racing.jpg",
         "historia": "Rock 'N Roll Racing foi um jogo de corrida que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as pistas e melhorar meu tempo. O que mais me marcou foi a sensação de velocidade e a adrenalina de ultrapassar os adversários na reta final.\n\nUma das coisas que mais gostei foi a variedade de carros e pistas. Cada carro tinha suas próprias características, e você precisava escolher o melhor para cada tipo de pista. Lembro de ficar especialmente impressionado com a pista do deserto, onde você precisa desviar de obstáculos e manter a velocidade.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
 
     {
         "id": 71,
         "nome": "Battletoads in Battlemaniacs",
-        "imagem": "./assets/Battletoads_in_Battlemaniacs.png",
+        "imagem": "Battletoads_in_Battlemaniacs.png",
         "historia": "Battletoads in Battlemaniacs foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era guiar os Battletoads através de várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Dark Queen. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-la foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 72,
         "nome": "Batman Returns",
-        "imagem": "./assets/Batman_returns.jpg",
+        "imagem": "Batman_returns.jpg",
         "historia": "Batman Returns foi um jogo de ação e aventura que joguei muito no Super Nintendo. O objetivo era guiar o Batman através de várias fases, coletando itens e derrotando inimigos.\n\nO que mais me marcou foi a variedade de armas e power-ups que você podia coletar ao longo do jogo. Cada arma tinha uma habilidade única, o que adicionava uma camada extra de estratégia ao jogo. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Pinguim. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi incrível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando passar de fase e descobrir todos os segredos. Foi uma experiência inesquecível."
     },
     {
         "id": 73,
         "nome": "Sonic 4",
-        "imagem": "./assets/Sonic_4.jpg",
+        "imagem": "Sonic_4.jpg",
         "historia": "Sonic 4 foi um jogo de plataforma que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de fases e a possibilidade de encontrar atalhos e itens secretos. Lembro de ficar especialmente impressionado com a fase do vulcão, onde você precisa desviar de inimigos e obstáculos enquanto o cenário se move.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
     },
     {
         "id": 74,
         "nome": "NBA Hang Time",
-        "imagem": "./assets/nba_hang_time.jpg",
+        "imagem": "nba_hang_time.jpg",
         "historia": "NBA Hang Time foi um jogo de basquete que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as partidas e melhorar meu desempenho. O que mais me marcou foi a sensação de fazer cestas e bloquear arremessos.\n\nUma das coisas que mais gostei foi a variedade de times e jogadores. Cada time tinha suas próprias características, e você precisava escolher o melhor para cada tipo de partida. Lembro de ficar especialmente impressionado com a partida final, onde você enfrenta o All-Star Team. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-los foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 75,
         "nome": "Dragon Ball Z Super Gokuden",
-        "imagem": "./assets/Dragon_Ball_Z_Super_Gokuden.jpg",
+        "imagem": "Dragon_Ball_Z_Super_Gokuden.jpg",
         "historia": "Dragon Ball Z Super Gokuden foi um jogo de RPG que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de personagens e a possibilidade de encontrar atalhos e itens secretos. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Freeza. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
     },
 
@@ -490,31 +473,20 @@
 {
         "id": 76,
         "nome": "International Superstar Soccer Deluxe",
-        "imagem": "./assets/international_superstar_siccer_deluxe.webp",
+        "imagem": "international_superstar_siccer_deluxe.webp",
         "historia": "International Superstar Soccer Deluxe foi um jogo de futebol que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as partidas e melhorar meu desempenho. O que mais me marcou foi a sensação de fazer gols e defender ataques.\n\nUma das coisas que mais gostei foi a variedade de times e jogadores. Cada time tinha suas próprias características, e você precisava escolher o melhor para cada tipo de partida. Lembro de ficar especialmente impressionado com a partida final, onde você enfrenta o All-Star Team. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-los foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 77,
         "nome": "Ronaldinho Soccer '97",
-        "imagem": "./assets/Ronaldinho_Soccer_97.jpg",
+        "imagem": "Ronaldinho_Soccer_97.jpg",
         "historia": "Ronaldinho Soccer '97 foi um jogo de futebol que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as partidas e melhorar meu desempenho. O que mais me marcou foi a sensação de fazer gols e defender ataques.\n\nUma das coisas que mais gostei foi a variedade de times e jogadores. Cada time tinha suas próprias características, e você precisava escolher o melhor para cada tipo de partida. Lembro de ficar especialmente impressionado com a partida final, onde você enfrenta o All-Star Team. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-los foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
     },
     {
         "id": 78,
         "nome": "The Magical Quest Starring Mickey Mouse",
-        "imagem": "./assets/Magical_quest_Starring_Mikey_Mouse.jpg",
+        "imagem": "Magical_quest_Starring_Mikey_Mouse.jpg",
         "historia": "The Magical Quest Starring Mickey Mouse foi um jogo de plataforma que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de fases e a possibilidade de encontrar atalhos e itens secretos. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Pete. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
-    },
-    {
-        "id": 79,
-        "nome": "Super Soccer",
-        "imagem": "./assets/Super_Soccer.jpg",
-        "historia": "Super Soccer foi um jogo de futebol que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as partidas e melhorar meu desempenho. O que mais me marcou foi a sensação de fazer gols e defender ataques.\n\nUma das coisas que mais gostei foi a variedade de times e jogadores. Cada time tinha suas próprias características, e você precisava escolher o melhor para cada tipo de partida. Lembro de ficar especialmente impressionado com a partida final, onde você enfrenta o All-Star Team. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-los foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
-    },
-    {
-        "id": 80,
-        "nome": "Super Tennis",
-        "imagem": "./assets/Super_Tennis.jpg",
-        "historia": "Super Tennis foi um jogo de tênis que joguei muito no Super Nintendo. Lembro de ficar horas tentando vencer todas as partidas e melhorar meu desempenho. O que mais me marcou foi a sensação de acertar os golpes e defender os ataques do adversário.\n\nUma das coisas que mais gostei foi a variedade de jogadores e a possibilidade de escolher diferentes superfícies de quadra. Cada superfície tinha suas próprias características, e você precisava escolher a melhor estratégia para cada tipo de partida. Lembro de ficar especialmente impressionado com a partida final, onde você enfrenta o campeão mundial. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de uma época em que a diversão era simples e direta. Bons tempos!"
-    },
+    }
+           
 ]

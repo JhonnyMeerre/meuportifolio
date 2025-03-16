@@ -18,10 +18,13 @@
     box-sizing: border-box;
 }
 
+/* Corrigido: Removi a segunda declaração de body */
 body {
-    background-color: var(--cor-primaria);
-    color: var(--cor-secundaria);
-    font-family: var(--fonte-secundaria);
+    background-color: var(--cor-primaria); /* Fundo preto */
+    color: var(--cor-secundaria); /* Fonte branca */
+    font-family: var(--fonte-secundaria); /* Fonte padrão */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove paddings padrão */
 }
 
 .cabecalho {
@@ -50,6 +53,42 @@ body {
     gap: 40px;
 }
 
+/* Removi a segunda declaração de body */
+
+.container-jogos {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Estilos para cada jogo */
+.texto__jogo {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.texto__jogo img {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover !important;
+    border-radius: 10px !important;
+}
+
+.texto__jogo h3 {
+    margin-top: 10px;
+    font-size: 24px;
+    color: #333;
+}
+
+.historia__com__jogo {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}
+
 .apresentacao__conteudo__titulo {
     font-size: 1.25rem;
     font-family: var(--fonte-primaria);
@@ -65,17 +104,16 @@ body {
     border: 3px solid var(--cor-quinaria);
 }
 
-.logo__nintendo{
+.logo__nintendo {
     width: 30%;
     gap: 20px;
 }
 
-
-.lista__de__imagens {
+#container-jogos {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Cartões lado a lado */
-    gap: 20px;
-    padding: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Cards lado a lado */
+    gap: 20px; /* Espaçamento entre os cards */
+    padding: 20px; /* Espaçamento interno */
 }
 
 .texto__jogo {
@@ -189,7 +227,7 @@ body {
     width: auto;
 }
 
-.imagem__jonathan{
+.imagem__jonathan {
     flex: 1; /* Ocupa 1 parte do espaço disponível */
     text-align: center; /* Centraliza a imagem */
 }
@@ -205,22 +243,22 @@ body {
 }
 
 @media (max-width: 1200px) {
-    .cabecalho{
-         padding: 10%;  
+    .cabecalho {
+        padding: 10%;  
     }
-    .cabecalho__menu{
+    .cabecalho__menu {
         justify-content: center;
         font-size: auto;
     }
 
-    .cabecalho__menu__link{
+    .cabecalho__menu__link {
         justify-content: center;
     }
-    .apresentacao{
+    .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
     }
-    .apresentacao__conteudo{
+    .apresentacao__conteudo {
         width: auto;
     }
 }
