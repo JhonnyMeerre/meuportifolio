@@ -73,7 +73,7 @@ body {
 
 .lista__de__imagens {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Cartões lado a lado */
     gap: 20px;
     padding: 20px;
 }
@@ -84,6 +84,7 @@ body {
     padding: 1rem;
     text-align: center;
     transition: transform 0.3s ease;
+    cursor: pointer; /* Mostra que o cartão é clicável */
 }
 
 .texto__jogo:hover {
@@ -105,9 +106,81 @@ body {
 }
 
 .texto__jogo p {
+    display: none; /* Oculta o parágrafo da história */
     font-size: 1rem;
     font-family: var(--fonte-secundaria);
     color: var(--cor-secundaria);
+}
+
+/* Estilos do Modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    overflow: auto;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.modal__conteudo {
+    background-color: var(--cor-primaria);
+    margin: 10% auto;
+    padding: 20px;
+    border: 2px solid var(--cor-terciaria);
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+    position: relative;
+    animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+    from { transform: translateY(-20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+.modal__fechar {
+    color: var(--cor-terciaria);
+    font-size: 2rem;
+    font-weight: bold;
+    position: absolute;
+    right: 10px;
+    top: 0;
+    cursor: pointer;
+}
+
+.modal__fechar:hover {
+    color: var(--cor-quinaria);
+}
+
+#modal__texto {
+    font-size: 1rem;
+    font-family: var(--fonte-secundaria);
+    color: var(--cor-secundaria);
+    line-height: 1.5;
+}
+
+#modal__carregando {
+    display: none; /* Oculta por padrão */
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--cor-terciaria);
+}
+
+.em_desenvolvimento {
+    display: block;
+    color: var(--cor-quarternaria); /* Laranja para destacar */
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
 }
 
 .texto__sobre__mim {
