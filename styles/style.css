@@ -18,15 +18,13 @@
     box-sizing: border-box;
 }
 
-/* Corrigido: Removi a segunda declaração de body */
 body {
     background-color: var(--cor-primaria); /* Fundo preto */
     color: var(--cor-secundaria); /* Fonte branca */
     font-family: var(--fonte-secundaria); /* Fonte padrão */
-    margin: 0; /* Remove margens padrão */
-    padding: 0; /* Remove paddings padrão */
 }
 
+/* Estilos do cabeçalho */
 .cabecalho {
     padding: 2% 0% 0% 15%;
 }
@@ -44,76 +42,101 @@ body {
     text-decoration: none;
 }
 
+/* Container principal */
+.apresentacao {
+    display: flex;
+    align-items: flex-start; /* Alinha os itens ao topo */
+    justify-content: space-between; /* Espaço entre texto e foto */
+    padding: 5% 10%; /* Espaçamento interno */
+    gap: 40px; /* Espaço entre texto e foto */
+    max-width: 100%; /* Ocupa 100% da tela */
+}
+
+/* Seção de conteúdo (texto e redes sociais) */
 .apresentacao__conteudo {
+    flex: 1; /* Ocupa o espaço disponível */
+    max-width: 100%; /* Ocupa 100% da largura */
     padding-left: 1.25rem;
     padding-top: 1.25rem;
-    width: auto;
     display: flex;
     flex-direction: column;
     gap: 40px;
 }
 
-/* Removi a segunda declaração de body */
-
-.container-jogos {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-/* Estilos para cada jogo */
-.texto__jogo {
-    margin-bottom: 20px;
-    padding: 15px;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.texto__jogo img {
-    width: 100% !important;
-    height: 200px !important;
-    object-fit: cover !important;
-    border-radius: 10px !important;
-}
-
-.texto__jogo h3 {
-    margin-top: 10px;
-    font-size: 24px;
-    color: #333;
-}
-
-.historia__com__jogo {
-    font-size: 16px;
-    color: #555;
-    line-height: 1.6;
-}
-
+/* Título da seção "Sobre mim" */
 .apresentacao__conteudo__titulo {
-    font-size: 1.25rem;
+    font-size: 2rem;
     font-family: var(--fonte-primaria);
+    margin-bottom: 1.5rem;
 }
 
+/* Texto da seção "Sobre mim" */
 .apresentacao__conteudo__texto {
     font-size: 1.25rem;
     font-family: var(--fonte-secundaria);
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
 }
 
-.apresentacao__imagem {
-    width: 50%;
-    border: 3px solid var(--cor-quinaria);
+/* Container da foto */
+.imagem__jonathan {
+    flex: 1; /* Ocupa o espaço disponível */
+    max-width: 50%; /* Limita a largura da foto */
+    text-align: right; /* Alinha a foto à direita */
 }
 
-.logo__nintendo {
-    width: 30%;
-    gap: 20px;
+/* Estilo da foto */
+.imagem__jonathan img {
+    width: 50%; /* Largura máxima do container */
+    max-width: 50%; /* Ajusta a largura da foto */
+    border-radius: 10px; /* Borda arredondada */
+    border: 3px solid var(--cor-quinaria); /* Borda colorida */
+}
+
+/* Seção de contatos (redes sociais) */
+.apresentacao__conteudo__contatos {
+    margin-top: 2rem; /* Espaçamento acima dos botões */
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Espaço entre os botões */
+}
+
+/* Lista de contatos */
+.apresentacao__conteudo__contatos ul {
+    list-style-type: none; /* Remove os marcadores de lista */
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Espaço entre os botões */
+}
+
+/* Estilo dos botões de contato */
+.apresentacao__conteudo__contatos ul li a {
+    text-decoration: none;
+    color: var(--cor-secundaria);
+    background-color: var(--cor-terciaria);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+/* Efeito hover nos botões */
+.apresentacao__conteudo__contatos ul li a:hover {
+    background-color: var(--cor-quinaria);
+}
+
+/* Estilos para a seção de jogos */
+.container-jogos {
+    max-width: 100%; /* Ocupa 100% da tela */
+    margin: 0 auto;
+    padding: 20px;
 }
 
 #container-jogos {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Cards lado a lado */
+    grid-template-columns: repeat(4, 1fr); /* 4 jogos por linha em telas grandes */
     gap: 20px; /* Espaçamento entre os cards */
-    padding: 20px; /* Espaçamento interno */
 }
 
 .texto__jogo {
@@ -221,34 +244,24 @@ body {
     margin-top: 0.5rem;
 }
 
-.texto__sobre__mim {
-    display: flex;
-    flex-direction: column;
-    width: auto;
-}
-
-.imagem__jonathan {
-    flex: 1; /* Ocupa 1 parte do espaço disponível */
-    text-align: center; /* Centraliza a imagem */
-}
-
+/* Rodapé */
 .rodape {
-    color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
-    padding: 24px;
+    color: var(--cor-primaria);
     text-align: center;
+    padding: 20px;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 400;
 }
 
+/* Responsividade */
 @media (max-width: 1200px) {
     .cabecalho {
         padding: 10%;  
     }
     .cabecalho__menu {
         justify-content: center;
-        font-size: auto;
     }
 
     .cabecalho__menu__link {
@@ -260,5 +273,16 @@ body {
     }
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    /* Ajuste do grid para telas menores */
+    #container-jogos {
+        grid-template-columns: repeat(2, 1fr); /* 2 jogos por linha em telas menores */
+    }
+}
+
+@media (max-width: 768px) {
+    #container-jogos {
+        grid-template-columns: 1fr; /* 1 jogo por linha em telas muito pequenas */
     }
 }
