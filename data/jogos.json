@@ -487,6 +487,18 @@
         "nome": "The Magical Quest Starring Mickey Mouse",
         "imagem": "Magical_quest_Starring_Mikey_Mouse.jpg",
         "historia": "The Magical Quest Starring Mickey Mouse foi um jogo de plataforma que joguei muito no Super Nintendo. Lembro de ficar horas tentando passar das fases, especialmente aquelas com muitos inimigos e obstáculos. A sensação de explorar cada fase e descobrir segredos era incrível.\n\nO que mais me marcou foi a variedade de fases e a possibilidade de encontrar atalhos e itens secretos. Lembro de ficar especialmente impressionado com a fase final, onde você enfrenta o Pete. Foi um dos desafios mais difíceis que já enfrentei, mas a sensação de vitória ao derrotá-lo foi inesquecível.\n\nEsse jogo me faz lembrar de tardes inteiras jogando, tentando descobrir todos os segredos e coletar todas as moedas. Foi uma experiência inesquecível."
+    },
+    {
+        "id": 79,
+        "nome": "Aladdin",
+        "imagem": "aladin.WEBP",
+        "historia": "Em desenvolvimento"
+    },
+    {
+        "id": 80,
+        "nome": "Star Fox",
+        "imagem": "star_fox.WEBP",
+        "historia": "Em desenvolvimento"
     }
            
 ]

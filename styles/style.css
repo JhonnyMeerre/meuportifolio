@@ -19,12 +19,12 @@
 }
 
 body {
-    background-color: var(--cor-primaria); /* Fundo preto */
-    color: var(--cor-secundaria); /* Fonte branca */
-    font-family: var(--fonte-secundaria); /* Fonte padrão */
+    background-color: var(--cor-primaria);
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-secundaria);
 }
 
-/* Estilos do cabeçalho */
+/* Cabeçalho */
 .cabecalho {
     padding: 2% 0% 0% 15%;
 }
@@ -42,20 +42,20 @@ body {
     text-decoration: none;
 }
 
-/* Container principal */
+/* Layout principal */
 .apresentacao {
     display: flex;
-    align-items: flex-start; /* Alinha os itens ao topo */
-    justify-content: space-between; /* Espaço entre texto e foto */
-    padding: 5% 10%; /* Espaçamento interno */
-    gap: 40px; /* Espaço entre texto e foto */
-    max-width: 100%; /* Ocupa 100% da tela */
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 5% 10%;
+    gap: 40px;
+    max-width: 100%;
 }
 
-/* Seção de conteúdo (texto e redes sociais) */
-.apresentacao__conteudo {
-    flex: 1; /* Ocupa o espaço disponível */
-    max-width: 100%; /* Ocupa 100% da largura */
+/* Estilos específicos para o index.html */
+.apresentacao__conteudo--index {
+    flex: 1;
+    max-width: 100%;
     padding-left: 1.25rem;
     padding-top: 1.25rem;
     display: flex;
@@ -63,51 +63,47 @@ body {
     gap: 40px;
 }
 
-/* Título da seção "Sobre mim" */
-.apresentacao__conteudo__titulo {
-    font-size: 2rem;
-    font-family: var(--fonte-primaria);
-    margin-bottom: 1.5rem;
-}
-
-/* Texto da seção "Sobre mim" */
-.apresentacao__conteudo__texto {
-    font-size: 1.25rem;
-    font-family: var(--fonte-secundaria);
-    line-height: 1.5;
-    margin-bottom: 1.5rem;
+/* Estilos específicos para o about.html */
+.apresentacao__conteudo--about {
+    flex: 1;
+    max-width: 50%;
+    padding-left: 1.25rem;
+    padding-top: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 /* Container da foto */
 .imagem__jonathan {
-    flex: 1; /* Ocupa o espaço disponível */
-    max-width: 50%; /* Limita a largura da foto */
-    text-align: right; /* Alinha a foto à direita */
+    flex: 1;
+    max-width: 50%;
+    text-align: right;
 }
 
 /* Estilo da foto */
 .imagem__jonathan img {
-    width: 50%; /* Largura máxima do container */
-    max-width: 50%; /* Ajusta a largura da foto */
-    border-radius: 10px; /* Borda arredondada */
-    border: 3px solid var(--cor-quinaria); /* Borda colorida */
+    width: 100%;
+    max-width: 100%;
+    border-radius: 10px;
+    border: 3px solid var(--cor-secundaria);
 }
 
 /* Seção de contatos (redes sociais) */
 .apresentacao__conteudo__contatos {
-    margin-top: 2rem; /* Espaçamento acima dos botões */
+    margin-top: 2rem;
     display: flex;
     flex-direction: column;
-    gap: 10px; /* Espaço entre os botões */
+    gap: 10px;
 }
 
 /* Lista de contatos */
 .apresentacao__conteudo__contatos ul {
-    list-style-type: none; /* Remove os marcadores de lista */
+    list-style-type: none;
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    gap: 10px; /* Espaço entre os botões */
+    gap: 10px;
 }
 
 /* Estilo dos botões de contato */
@@ -128,15 +124,15 @@ body {
 
 /* Estilos para a seção de jogos */
 .container-jogos {
-    max-width: 100%; /* Ocupa 100% da tela */
+    max-width: 100%;
     margin: 0 auto;
     padding: 20px;
 }
 
 #container-jogos {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4 jogos por linha em telas grandes */
-    gap: 20px; /* Espaçamento entre os cards */
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
 }
 
 .texto__jogo {
@@ -145,7 +141,7 @@ body {
     padding: 1rem;
     text-align: center;
     transition: transform 0.3s ease;
-    cursor: pointer; /* Mostra que o cartão é clicável */
+    cursor: pointer;
 }
 
 .texto__jogo:hover {
@@ -153,9 +149,9 @@ body {
 }
 
 .texto__jogo img {
-    width: 100%; 
-    height: 200px; 
-    object-fit: cover; 
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
     border-radius: 10px;
 }
 
@@ -167,7 +163,7 @@ body {
 }
 
 .texto__jogo p {
-    display: none; /* Oculta o parágrafo da história */
+    display: none;
     font-size: 1rem;
     font-family: var(--fonte-secundaria);
     color: var(--cor-secundaria);
@@ -231,7 +227,7 @@ body {
 }
 
 #modal__carregando {
-    display: none; /* Oculta por padrão */
+    display: none;
     text-align: center;
     font-size: 1.2rem;
     color: var(--cor-terciaria);
@@ -239,9 +235,109 @@ body {
 
 .em_desenvolvimento {
     display: block;
-    color: var(--cor-quarternaria); /* Laranja para destacar */
+    color: var(--cor-quarternaria);
     font-size: 0.9rem;
     margin-top: 0.5rem;
+}
+
+/* Estilos do card */
+.apresentacao__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--cor-hover);
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 2rem auto;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.apresentacao__card__foto img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid var(--cor-quinaria);
+    margin-bottom: 1rem;
+}
+
+.apresentacao__card__nome {
+    font-size: 1.75rem;
+    font-family: var(--fonte-primaria);
+    color: var(--cor-secundaria);
+    margin-bottom: 0.5rem;
+}
+
+.apresentacao__card__descricao {
+    font-size: 1rem;
+    font-family: var(--fonte-secundaria);
+    color: var(--cor-secundaria);
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.apresentacao__card__redes {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.social-link {
+    color: var(--cor-secundaria);
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+}
+
+.social-link:hover {
+    color: var(--cor-quinaria);
+}
+
+/* Responsividade */
+@media (max-width: 1200px) {
+    .cabecalho {
+        padding: 10%;
+    }
+
+    .cabecalho__menu {
+        justify-content: center;
+    }
+
+    .cabecalho__menu__link {
+        justify-content: center;
+    }
+
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao__conteudo--index,
+    .apresentacao__conteudo--about {
+        width: auto;
+    }
+
+    #container-jogos {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    #container-jogos {
+        grid-template-columns: 1fr;
+    }
+
+    .apresentacao__conteudo--about {
+        max-width: 100%;
+    }
+
+    .imagem__jonathan {
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .imagem__jonathan img {
+        max-width: 80%;
+    }
 }
 
 /* Rodapé */
@@ -253,36 +349,4 @@ body {
     font-family: var(--fonte-secundaria);
     font-size: 1.25rem;
     font-weight: 400;
-}
-
-/* Responsividade */
-@media (max-width: 1200px) {
-    .cabecalho {
-        padding: 10%;  
-    }
-    .cabecalho__menu {
-        justify-content: center;
-    }
-
-    .cabecalho__menu__link {
-        justify-content: center;
-    }
-    .apresentacao {
-        flex-direction: column-reverse;
-        padding: 5%;
-    }
-    .apresentacao__conteudo {
-        width: auto;
-    }
-
-    /* Ajuste do grid para telas menores */
-    #container-jogos {
-        grid-template-columns: repeat(2, 1fr); /* 2 jogos por linha em telas menores */
-    }
-}
-
-@media (max-width: 768px) {
-    #container-jogos {
-        grid-template-columns: 1fr; /* 1 jogo por linha em telas muito pequenas */
-    }
 }

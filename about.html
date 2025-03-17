@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sobre mim</title>
     <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
     <header class="cabecalho">
@@ -15,7 +16,7 @@
     </header>
     <main class="apresentacao">
         <!-- Seção "Sobre mim" -->
-        <section class="apresentacao__conteudo">
+        <section class="apresentacao__conteudo__about">
             <h1 class="apresentacao__conteudo__titulo">Minha história</h1>
             <p class="apresentacao__conteudo__texto">
                 Olá, meu nome é Jonathan Gonçalves, mas podem me chamar de Jhonny Meerre. Tenho 38 anos, sou pai e atualmente estou em uma fase de transição e aprendizado, estudando programação com foco em JavaScript.
@@ -35,28 +36,45 @@
         </section>
 
         <!-- Seção da foto -->
-        <div class="imagem__jonathan">
-            <img src="./assets/Jonathan.jpg" alt="Foto de Jonathan Gonçalves">
-        </div>
+        <!-- Seção do card com foto, descrição e redes sociais -->
+               <!-- Substitua esta parte no about.html -->
+                <section class="apresentacao__card">
+                    <!-- Foto -->
+                    <div class="apresentacao__card__foto">
+                        <img src="./assets/Jonathan.jpg" alt="Foto de Jonathan Gonçalves">
+                    </div>
 
-                <!-- Seção "Contatos" -->
-<section class="apresentacao__conteudo__contatos">
-    <h2 class="apresentacao__conteudo__titulo">Contatos</h2>
-    <p class="apresentacao__conteudo__texto">
-        Você pode entrar em contato comigo ou acompanhar meu trabalho através dos seguintes links:
-    </p>
-    <ul>
-        <li>
-            <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">LinkedIn</a>
-        </li>
-        <li>
-            <a href="https://www.tiktok.com/@seu-tiktok" target="_blank">TikTok</a>
-        </li>
-        <li>
-            <a href="https://www.youtube.com/seu-youtube" target="_blank">YouTube</a>
-        </li>
-        <li>
-            <a href="https://discord.com/users/seu-discord" target="_blank">Discord</a>
-        </li>
-    </ul>
-</section>
+                    <!-- Nome -->
+                    <h2 class="apresentacao__card__nome">Jonathan Goncalves</h2>
+
+                    <!-- Descrição breve -->
+                    <p class="apresentacao__card__descricao">
+                        Entregador de aplicativos e estudante de programação. Apaixonado por música, jogos e tecnologia.
+                    </p>
+
+                    <!-- Redes sociais -->
+                    <div class="apresentacao__card__redes">
+                        <a href="https://www.linkedin.com/in/jonathanc-goncalves/" target="_blank" class="social-link">
+                            <i class="fab fa-linkedin-in"></i> <!-- Ícone do LinkedIn -->
+                        </a>
+                        <a href="https://www.tiktok.com/@jhonnymeerre" target="_blank" class="social-link">
+                            <i class="fab fa-tiktok"></i> <!-- Ícone do TikTok -->
+                        </a>
+                        <a href="https://www.youtube.com/@Jhonnymeerre" target="_blank" class="social-link">
+                            <i class="fab fa-youtube"></i> <!-- Ícone do YouTube -->
+                        </a>
+                        <a href="https://discord.gg/gMrYVpzaku" target="_blank" class="social-link">
+                            <i class="fab fa-discord"></i> <!-- Ícone do Discord -->
+                        </a>
+                    </div>
+                </section>
+
+    </main>          <!-- Seção "Contatos" -->
+    <section class="apresentacao__conteudo__contatos">
+    
+        </section>
+
+        <script src="./js/javascript.js"></script>
+</body>
+<footer class="rodape">Desenvolvido por Jonathan Goncalves - Jhonny Meerre</footer>
+</html>
